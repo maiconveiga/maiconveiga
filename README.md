@@ -4,7 +4,7 @@ No mundo do desenvolvimento, tento me virar entre frontend e backend usando Java
 
 Se quiser trocar uma ideia ou conectar no LinkedIn, tô lá: linkedin.com/in/maiconveiga. Quem sabe a gente não aprende alguma coisa junto, né?
 
-Valeu, galera, e bora programar com simplicidade! 🚀😊
+Valeu, galera, e bora programar! 🚀😊
 
 <div align="center">
   <a href="https://github.com/maiconveiga">

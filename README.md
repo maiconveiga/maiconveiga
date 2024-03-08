@@ -1,6 +1,4 @@
-👋 Olá, eu sou o Maicon Veiga, trabalho na Johnson controls desde 2010.
-
-👀 Tenho interesses pelas áreas de front-end, back-end, Javascript e python.
+👋 Olá, eu sou o Maicon Veiga! Tenho interesses pelas áreas de front-end, back-end, Javascript e python.
 
 Saiba mais sobre mim acessando meu linkedin.com/in/maiconveiga.
 
